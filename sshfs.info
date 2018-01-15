@@ -1,0 +1,4 @@
+sshfs is a method to mount a remote folder via a ssh tunnel.
+manual mount :  
+sshfs [user@]host:[dir] mountpoint [options]
+AutoFS deals with this filesystem.(see the confFile for configuration method) 

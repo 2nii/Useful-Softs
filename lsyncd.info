@@ -1,0 +1,2 @@
+Tools which keep two folders synchronized.
+Detect change in a folder and launch an rsync.

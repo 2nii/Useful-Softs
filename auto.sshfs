@@ -1,0 +1,3 @@
+folderName -fstype=fuse,rw,nodev,nonempty,allow_other,reconnect,uid=1000,gid=1000,max_read=65536,compression=yes,auto_cache,no_check_root,kernel_cache :sshfs\#root@remoteHost\:/appli/folderName
+folderName -fstype=fuse,rw,nodev,nonempty,allow_other,reconnect,uid=1000,gid=1000,max_read=65536,compression=yes,auto_cache,no_check_root,kernel_cache :sshfs\#root@remoteHost\:/appli/folderName
+
